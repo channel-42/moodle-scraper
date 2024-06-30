@@ -2,7 +2,7 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/version-0.1.0-green.svg)
-[![](https://img.shields.io/badge/license-GPLv3-orange.svg)](https://github.com/channel-42/wppfzf/blob/master/LICENSE)
+[![](https://img.shields.io/badge/license-GPLv3-orange.svg)](https://github.com/channel-42/moodle-scraper/blob/master/LICENSE)
 
 </div>
 <p align="center"><em>A simple CLI scraper to download course resources from moodle</em></p>
