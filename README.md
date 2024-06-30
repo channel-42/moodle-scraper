@@ -15,7 +15,7 @@
 ## Installation
 To install moodle-scraper, run the following command:
 ```bash
-go install github.com/channel-42/moodle-scraper
+go install github.com/channel-42/moodle-scraper/cmd/moodle-scraper@latest
 ```
 
 ## Usage
